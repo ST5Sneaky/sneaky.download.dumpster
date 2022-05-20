@@ -1,2 +1,2 @@
 # sneaky.download.dumpster
-Source code for the domain sneaky.download.dumpster
+A file dumpster for my website!
