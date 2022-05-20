@@ -33,3 +33,5 @@ No downloads for Outdated Executables yet!
 
 ### Pranks
 No downloads for Pranks yet!
+
+[Notices/Rules](notices.md)
