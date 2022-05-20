@@ -30,3 +30,6 @@ No downloads for Tests yet!
 
 ### Outdated Executables (Windows ONLY)
 No downloads for Outdated Executables yet!
+
+### Pranks
+No downloads for Pranks yet!
