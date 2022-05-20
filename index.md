@@ -26,7 +26,7 @@ No downloads for Other yet!
 No downloads for Ditched Projects yet!
 
 ### Tests
-No downloads for Tests yet!
+[foldermark.txt (67 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/foldermark.txt)
 
 ### Outdated Executables (Windows ONLY)
 No downloads for Outdated Executables yet!
