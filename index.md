@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## sneaky.download.dumpster
 
-You can use the [editor on GitHub](https://github.com/ST5Sneaky/sneaky.download.dumpster/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my file dumpster!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is run through GitHub, you can see the [source code](https://github.com/ST5Sneaky/sneaky.download.dumpster) on GitHub!
 
-### Markdown
+### When downloads appear, you can click on the name and be redirected to the GitHub page where you can download the file in the dumpster
+(P.S. Direct downloads are still to be figured out.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Code
+No downloads for Code yet!
 
-```markdown
-Syntax highlighted code block
+### Executables (Windows)
+No downloads for Executables yet!
 
-# Header 1
-## Header 2
-### Header 3
+### Executables (Mac)
+No downloads for Executables yet!
 
-- Bulleted
-- List
+### Executables (Linux)
+No downloads for Executables yet!
 
-1. Numbered
-2. List
+### Other
+No downloads for Other yet!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ST5Sneaky/sneaky.download.dumpster/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Ditched Projects
+No downloads for Ditched Projects yet!
