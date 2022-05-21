@@ -27,6 +27,7 @@ No downloads for Ditched Projects yet!
 
 ### Images
 [dumpstericonpng.png (172 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/dumpstericonpng.png)
+ 
 [Dancing Dog.gif (13.3 kilobytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/Dancing%20Dog.gif)
 
 ### Tests
