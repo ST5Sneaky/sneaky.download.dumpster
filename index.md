@@ -40,4 +40,4 @@ No downloads for Outdated Executables yet!
 No downloads for Pranks yet!
 
 [Notices/Rules](notices.md)
-[Looking for something you can't find?](lookingforsomething.md)
+[Looking for something you can't find?](lookingforcertainthings.md)
