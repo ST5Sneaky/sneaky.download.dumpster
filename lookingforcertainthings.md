@@ -9,6 +9,14 @@ Don't worry! Some files aren't in the dumpster but I have got other sites for yo
  
 [Lost OS's (IBM 0S-2 1.00-4.52, eComStation 2.1.) (Made by Enderman, AGAIN.)](https://dl.malwarewatch.org/oshalved/)
 
+### ISO Direct Downloads
+
+[Windows Whistler (Windows XP Beta) Build 2202](https://dl.malwarewatch.org/windows/betas/Windows Whistler PB-2202.iso)
+ 
+[Windows Chicago (Windows 98 Beta) Build 458](https://dl.malwarewatch.org/windows/betas/Windows Chicago M4-58s.iso)
+ 
+WARNING: Some of these might have timebombs in them. [Click for a FULL list of all the timebombs.](https://dl.malwarewatch.org/windows/betas/Timebombs.txt)
+
 ## Malware
 My dumpster is COMPLETLY MALWARE-FREE, but if you were looking for malware, here you go.
 
