@@ -3,7 +3,9 @@
 Don't worry! Some files aren't in the dumpster but I have got other sites for you to download files!
 
 ## ISO/OS Install Files for VMs
-[Open Downloads (This site (that I am linking to) was made by Enderman.](https://dl.malwarewatch.org/windows/)
+[Windows 1.01-10 Downloads (This site (that I am linking to) was made by Enderman.](https://dl.malwarewatch.org/windows/)
+[MS-DOS 1.25-7.10 Downloads (Again made by Enderman.)](https://dl.malwarewatch.org/ms-dos/)
+[Lost OS's (IBM 0S-2 1.00-4.52, eComStation 2.1.) (Made by Enderman, AGAIN.](https://dl.malwarewatch.org/oshalved/)
 
 ## Malware
 My dumpster is COMPLETLY MALWARE-FREE, but if you were looking for malware, here you go.
