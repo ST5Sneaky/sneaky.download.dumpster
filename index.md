@@ -47,6 +47,9 @@ No downloads for Outdated Executables yet!
 ### Pranks
 [SecondSpam.bat (73 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/SecondSpam.bat)
 
+### Unknown
+No downloads for Unknown yet!
+
 [Notices/Rules](notices.md)
 
 [Looking for something you can't find?](lookingforcertainthings.md)
