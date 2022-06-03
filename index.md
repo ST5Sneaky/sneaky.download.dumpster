@@ -36,8 +36,15 @@ No downloads for Ditched Projects yet!
 ### Outdated Executables (Windows ONLY)
 No downloads for Outdated Executables yet!
 
+### Batch
+No downloads for Batch yet!
+
+### Kind of Jokes
+No downloads for Kind Of Jokes yet!
+
 ### Pranks
 No downloads for Pranks yet!
 
 [Notices/Rules](notices.md)
+
 [Looking for something you can't find?](lookingforcertainthings.md)
