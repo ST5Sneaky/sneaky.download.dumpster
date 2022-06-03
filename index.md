@@ -8,7 +8,9 @@ This is run through GitHub, you can see the [source code](https://github.com/ST5
 (P.S. Direct downloads are still to be figured out.)
 
 ### Code
-No downloads for Code yet!
+[AnnoyingKeyboard.vbs (385 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/AnnoyingKeyboard.vbs)
+ 
+[SecondSpam.bat (73 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/SecondSpam.bat)
 
 ### Executables (Windows)
 No downloads for Executables yet!
@@ -37,13 +39,13 @@ No downloads for Ditched Projects yet!
 No downloads for Outdated Executables yet!
 
 ### Batch
-No downloads for Batch yet!
+[SecondSpam.bat (73 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/SecondSpam.bat)
 
 ### Kind of Jokes
-No downloads for Kind Of Jokes yet!
+[AnnoyingKeyboard.vbs (385 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/AnnoyingKeyboard.vbs)
 
 ### Pranks
-No downloads for Pranks yet!
+[SecondSpam.bat (73 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/SecondSpam.bat)
 
 [Notices/Rules](notices.md)
 
