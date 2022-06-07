@@ -41,6 +41,9 @@ No downloads for Outdated Executables yet!
 ### Batch
 [SecondSpam.bat (73 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/SecondSpam.bat)
 
+# MS-DOS/CMD Games
+No downloads for MS-DOS/CMD Games yes=t!
+
 ### Kind of Jokes
 [AnnoyingKeyboard.vbs (385 bytes)](https://github.com/ST5Sneaky/sneaky.download.dumpster/blob/main/downloads/AnnoyingKeyboard.vbs)
 
