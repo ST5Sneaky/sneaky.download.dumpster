@@ -4,7 +4,7 @@
     <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
   </head>
   <script type="text/javascript">
-    if (hrecaptcha.getResponse() == "success") {
+    if (h-captcha.getResponse() == "success") {
         function Redirect() {
             window.location.href = "https://www.youtube.com/";
         }
@@ -12,13 +12,13 @@
         Redirect()
 
         setTimeout(Redirect, 1000);
-    } else alert("You can't proceed!");
+        else alert("You can't proceed!");
+    }
 </script>
   <body>
-    <form action="" method="POST">
-      
+    <form method="POST">
       <div class="h-captcha" data-sitekey="994ca80f-5aeb-4522-b94e-a26ccc5670c0"></div>
-      <br />
+      <br/>
       <input type="submit" value="Submit" />
     </form>
   </body>
