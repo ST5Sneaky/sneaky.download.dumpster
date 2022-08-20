@@ -1,51 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+    <html>
+  <head>
+    <title>hCaptcha Demo</title>
+    <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+  </head>
+  <script type="text/javascript">
+    if (hrecaptcha.getResponse() == "success") {
+        function Redirect() {
+            window.location.href = "https://www.youtube.com/";
+        }
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.muicss.com/mui-0.10.2/css/mui.min.css" rel="stylesheet" type="text/css" />
-  <script src="https://cdn.muicss.com/mui-0.10.2/js/mui.min.js"></script>
-  <script src="https://hcaptcha.com/1/api.js" async defer></script>
-  <title>hCaptcha test</title>
-  <style>
-    #content-wrapper {
-      margin: 20px auto;
-      width: 40%;
-    }
-  </style>
-  <script>
+        Redirect()
 
-    async function submitForm() {
-      const signUpForm = document.getElementById('signUpForm');
-      const formData = new FormData(signUpForm);
-
-      // Workaround, hCaptcha adds two keys with same value
-      formData.delete('g-recaptcha-response');
-
-      const response = await fetch('/signup', {
-        method: 'POST',
-        body: formData
-      });
-
-      const ok = await response.json();
-      if (ok) {
-        window.location.href = "https://st5sneaky.github.io/sneaky.download.dumpster/";
-      } else {
-        console.log('something went wrong');
-        <!-- window.location.href = "index.html"; --!>
-      }
-
-    }
-
-  </script>
-</head>
-
-<!-- code miss --!>
+        setTimeout(Redirect, 1000);
+    } else alert("You can't proceed!");
+</script>
+  <body>
+    <form action="" method="POST">
+      
       <div class="h-captcha" data-sitekey="994ca80f-5aeb-4522-b94e-a26ccc5670c0"></div>
-      <button type="submit" class="mui-btn mui-btn--raised">Submit</button>
+      <br />
+      <input type="submit" value="Submit" />
     </form>
-  </div>
-</body>
-
+  </body>
 </html>
